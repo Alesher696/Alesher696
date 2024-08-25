@@ -1,4 +1,4 @@
-# Hello there! <img src="https://cdn-0.emojis.wiki/emoji-pics-lf/telegram/waving-hand-telegram.gif"/> 👋 <img src="./assets/corgi.png" align="right" width='200px'/>
+# Hello there!👋 <img src="./assets/corgi.png" align="right" width='200px'/>
 
 My name is Alexandr Sherstnev, and I'm a Frontend developer.
 
