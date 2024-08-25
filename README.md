@@ -2,7 +2,7 @@
 
 My name is Alexandr Sherstnev, and I'm a Frontend developer.
 
-## About Me
+# About Me
 
 * 🌍  I'm based in Saint-Petersburg
 * 📱  My [telegram](https://t.me/Alesher_br)
