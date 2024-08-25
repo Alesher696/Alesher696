@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 <div align="right">
-  <img src="./assets/corgi.png"/>
+  <img src="./assets/corgi.png" width='200px'/>
 </div>
 
 My name is Alexandr Sherstnev, and I'm a Frontend developer.
