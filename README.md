@@ -1,4 +1,4 @@
-# Hello there!👋 <img src="./assets/corgi.png" align="right" width='200px'/>
+# Hello there!👋 <img src="./assets/corgi.png" align="right" width='150px'/>
 
 My name is Alexandr Sherstnev, and I'm a Frontend developer.
 
