@@ -1,1 +1,1 @@
-<img src="./assets/corgi.png" align="right" width='150px'/>
+<img src="./assets/corgi.png" width='150px'/>
